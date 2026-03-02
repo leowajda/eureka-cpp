@@ -1,2 +1,4 @@
-| Name | C++ |
-|:----:|:---:|
+
+|                             Name                             |                                                      C++                                                      |
+|:------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
+| [Binary Search](https://leetcode.com/problems/binary-search) | [:arrow_right_hook:](https://github.com/leowajda/eureka-cpp/blob/master/src/array/iterative/BinarySearch.cpp) |
