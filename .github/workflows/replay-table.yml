@@ -6,6 +6,7 @@ on:
 
 jobs:
   cpp:
-    uses: leowajda/eureka/.github/workflows/replay-table.yml@master
+    uses: leowajda/eureka/.github/workflows/replay-table.yml@feature/yaml-migration
     with:
       path-filter: 'src/**/*.cpp'
+    secrets: inherit
