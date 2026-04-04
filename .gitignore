@@ -47,3 +47,7 @@ Thumbs.db
 # Dojo (practice / scratch code)
 src/dojo/
 !src/dojo/.gitkeep
+
+# AI
+.claude/
+.opencode/
